@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 18 Bulan Mei 2024 pada 02.11
+-- Waktu pembuatan: 18 Bulan Mei 2024 pada 19.21
 -- Versi server: 10.4.32-MariaDB
 -- Versi PHP: 8.0.30
 
@@ -32,10 +32,6 @@ CREATE TABLE `evaluasi` (
   `Pesan` mediumtext NOT NULL,
   `ToUser` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
---
--- Dumping data untuk tabel `evaluasi`
---
 
 -- --------------------------------------------------------
 
@@ -152,10 +148,6 @@ CREATE TABLE `saran` (
   `Kelas` text NOT NULL,
   `Saran` longtext NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
---
--- Dumping data untuk tabel `saran`
---
 
 --
 -- Indexes for dumped tables
