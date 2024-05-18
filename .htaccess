@@ -1,0 +1,30 @@
+ErrorDocument 403 /src/forbidden.php
+
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+
+    RewriteRule ^program-kerja$ src/proker.php [L]
+    RewriteRule ^event$ src/event.php [L]
+    RewriteRule ^saran$ src/saran.php [L]
+    RewriteRule ^visi-misi$ src/visimisi.php [L]
+    RewriteRule ^informasi$ src/informasi_oska.php [L]
+
+    RewriteRule ^admin/login$ src/admin/login.php [L]
+    RewriteRule ^admin/home$ src/admin/profil.php [L]
+    RewriteRule ^admin/evaluasi$ src/admin/evaluasi.php [L]
+    RewriteRule ^admin/update$ src/admin/update_info.php [L]
+    RewriteRule ^admin/saran$ src/admin/admin.php [L]
+    RewriteRule ^admin/informasi$ src/admin/edit_info.php [L]
+    RewriteRule ^admin/event$ src/admin/event_edit.php [L]
+
+    RewriteRule ^c27c86486ac258cc8e2594e381a6b64e430448b0$ src/admin/c27c86486ac258cc8e2594e381a6b64e430448b0/index.php [L]
+
+    RewriteCond %{REQUEST_URI} !^/src/
+    RewriteRule ^(.*)$ src/$1 [L]
+
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ src/notFound.php [L]
+</IfModule>
+
+
