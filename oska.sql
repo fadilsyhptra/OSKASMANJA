@@ -37,17 +37,6 @@ CREATE TABLE `evaluasi` (
 -- Dumping data untuk tabel `evaluasi`
 --
 
-INSERT INTO `evaluasi` (`Id`, `Pesan`, `ToUser`) VALUES
-(38, 'Sosok cina', 'Fahmi Fauzi Hidayat'),
-(39, 'Nelson kenapa langit biru?', 'Nelson Fernando'),
-(40, 'karna aku suka kamu', 'Fahmi Fauzi Hidayat'),
-(41, 'Nelson kenapa langit biru?', 'Nelson Fernando'),
-(42, 'Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰Qwertyuiopasdfghjklzxcvbnm1234567890@#$_&-+()/*\"\':;!?★†‡„“«»‚‘‹›’”№₹¥₱€¢£—_–·[<{]>}~`|•√π÷×¶∆£¢€¥^°={}\\%©®™✓[]¿‽¡¹½⅓¼⅕⅙⅐⅛⅑⅒⅖²⅔⅗³¾⅜⁴⅘⅝⁵⅚⁶⁷⅞⁸⁹∅ⁿ⁰', 'Muhammad Fadil Syahputra'),
-(43, 'hlo nma aku elson fernndo dari kelas 9b kli ini sku prngrn pscrdn beegtulsh ya ingin memauyyyusssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss', 'Muhammad Fadil Syahputra'),
-(44, 'pppp km lg ap', 'Muhamad Alvin Hidayat'),
-(45, 'padil love elmeera', 'Muhammad Fadil Syahputra'),
-(46, 'elmeera nya suka sama yang lain sabar ya fadil', 'Muhammad Fadil Syahputra');
-
 -- --------------------------------------------------------
 
 --
@@ -167,13 +156,6 @@ CREATE TABLE `saran` (
 --
 -- Dumping data untuk tabel `saran`
 --
-
-INSERT INTO `saran` (`Id`, `Nama`, `Kelas`, `Saran`) VALUES
-(16, 'ytta', '12.1', 'menyala abangkuu'),
-(18, 'Mirza yang punya mio', '10.-1', 'Kritik itu yang yang makanan crispy ya, kaya kritik pisang'),
-(19, 'taylor swift ', '10.12', 'ak mw konser di smanja'),
-(20, 'semut', '110.113', 'kritik & saran'),
-(21, '<b>anjas</b>', '13', 'kenapa pisang warnanya kuning, karna aku suka kamu');
 
 --
 -- Indexes for dumped tables
